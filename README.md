@@ -1,2 +1,2 @@
 # RetrospecterVanities
-RetrospecterVanities, the funny
+RetrospecterVanities, the funnies
